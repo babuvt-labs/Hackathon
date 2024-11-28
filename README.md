@@ -20,8 +20,7 @@
             <td>
                 python:3.8.2-alpine3.18 <br>
                 python:3.9.20-alpine3.19 <br>
-                python:3.9.20-alpine3.20 
-            
+                python:3.9.20-alpine3.20             
             </td>
             <td>~5MB</td>
             <td>Moderate</td>
