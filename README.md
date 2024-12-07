@@ -1,5 +1,5 @@
 **Recommendations:**
-https://dev.azure.com/devops-hackathon/Kynlabs/_apis/build/status%2FDevsecops-Pipeline?branchName=main
+<img src="https://dev.azure.com/devops-hackathon/Kynlabs/_apis/build/status%2FDevsecops-Pipeline?branchName=main">
 <ul>
     <li>Use <em>python:3.8-slim-buster</em> for a balance of security and size.</li>
     <li>If size is critical, try <em>python:3.8.2-alpine3.18</em>.</li>
